@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Musical Arena - Emotion Player</title>
+    <script type="text/javascript" src="/eel.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Musical Arena</h1>
+            <div class="status" id="status">Ready</div>
+        </header>
+        
+        <div class="player-container">
+            <div class="emotion-display">
+                <div class="emotion" id="emotion">-</div>
+                <div class="song" id="song">No song playing</div>
+            </div>
+            
+            <div class="controls">
+                <div class="mode-selector">
+                    <button class="mode-btn active" data-mode="queue" id="mode-queue">Queue</button>
+                    <button class="mode-btn" data-mode="emotion" id="mode-emotion">Emotion</button>
+                    <button class="mode-btn" data-mode="random" id="mode-random">Random</button>
+                </div>
+                
+                <div class="detection-controls">
+                    <button id="start-btn">Start Detection</button>
+                    <button id="stop-btn" disabled>Stop Detection</button>
+                </div>
+            </div>
+            
+            <audio controls id="player"></audio>
+        </div>
+    </div>
+    
+    <script src="code.js"></script>
+</body>
+</html>

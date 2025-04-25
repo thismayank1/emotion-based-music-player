@@ -32,7 +32,7 @@
 ```
 3. Run the application
 ```bash
-   python main.py
+   python capture.py
 ```
 
 ## 🎯 How it Works

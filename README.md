@@ -1,8 +1,9 @@
 ﻿# 🎵 Musical Arena - Emotion Based Music Player
  
  ![Screenshot 2025-04-25 223005](https://github.com/user-attachments/assets/70cae4a8-2cbe-4a26-9692-2d4a1794b831)
+ 
 
-An intelligent music player that detects your mood through the camera and plays songs matching your emotion. 🎶
+**An intelligent music player that detects your mood through the camera and plays songs matching your emotion. 🎶**
 
 ## 🚀 Features
 - 🎯 Emotion Detection through webcam
@@ -30,9 +31,9 @@ An intelligent music player that detects your mood through the camera and plays 
   pip install opencv-python pygame eel
 ```
 3. Run the application
-   ```bash
+```bash
    python main.py
-   ```
+```
 
 ## 🎯 How it Works
 - Click on Start Detection — your webcam will activate.
@@ -42,6 +43,7 @@ An intelligent music player that detects your mood through the camera and plays 
 
 ## 📸 Demo Screenshot
  ![Screenshot 2025-04-25 222903](https://github.com/user-attachments/assets/39b2cbcf-aa07-431f-a9e2-ac6d6f8972a1)
+
 
 
 ## 📄 License

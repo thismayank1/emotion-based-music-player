@@ -20,19 +20,19 @@ An intelligent music player that detects your mood through the camera and plays 
 
 ## 📦 Installation
 1. Clone the repository
-   '''bash
+```bash
   git clone https://github.com/thismayank1/emotion-based-music-player.git
   cd emotion-based-music-player
-  '''
+```
 
 3. Install required Python libraries
-'''bash
+```bash
   pip install opencv-python pygame eel
-'''
+```
 3. Run the application
-   '''bash
+   ```bash
    python main.py
-   '''
+   ```
 
 ## 🎯 How it Works
 - Click on Start Detection — your webcam will activate.

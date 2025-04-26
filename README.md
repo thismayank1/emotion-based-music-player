@@ -1,5 +1,6 @@
 ﻿# 🎵 Musical Arena - Emotion Based Music Player
  
+ 
  ![Screenshot 2025-04-25 223005](https://github.com/user-attachments/assets/70cae4a8-2cbe-4a26-9692-2d4a1794b831)
  
 
@@ -42,6 +43,8 @@
 - You can also manually switch between Queue, Emotion, and Random modes.
 
 ## 📸 Demo Screenshot
+
+
  ![Screenshot 2025-04-25 222903](https://github.com/user-attachments/assets/39b2cbcf-aa07-431f-a9e2-ac6d6f8972a1)
 
 

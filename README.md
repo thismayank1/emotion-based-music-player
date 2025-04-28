@@ -1,4 +1,5 @@
-﻿# 🎵 Musical Arena - Emotion Based Music Player
+﻿# Emotion Based Music Player
+## 🎵 Musical Arena -
  
  
  ![Screenshot 2025-04-25 223005](https://github.com/user-attachments/assets/70cae4a8-2cbe-4a26-9692-2d4a1794b831)
